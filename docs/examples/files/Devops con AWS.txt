@@ -1,4 +1,0 @@
-Devops con AWS
-Migración de Jenkins a AWS
-Añadir capa de devsecops con AWS
-5 personas.

@@ -44,7 +44,7 @@ DevSecOps practices ensure that security is a core component at every stage of t
 
 - The diagram illustrates how **Intune** is integrated into the CI/CD pipeline, showing how mobile device management, application security, and Jenkins automation interact.
 
-![Architecture Diagram](../assets/images/diagram.png)
+![Architecture Diagram](../diagrams/diagram.png)
 
 - **Jenkins** triggers deployments and integrates with **Intune** for device and application management and policy enforcement.
 
